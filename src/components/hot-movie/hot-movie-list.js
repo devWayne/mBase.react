@@ -22,3 +22,4 @@ class HotMovieList extends  React.Component {
 }
 
 module.exports=HotMovieList;
+

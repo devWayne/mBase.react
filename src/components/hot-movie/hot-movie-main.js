@@ -27,3 +27,4 @@ class HotMovieMain extends  React.Component {
 }
 
 module.exports = HotMovieMain;
+

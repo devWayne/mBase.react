@@ -26,3 +26,4 @@ class HotMovieSub extends  React.Component {
 }
 
 module.exports=HotMovieSub;
+
